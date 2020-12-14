@@ -1,12 +1,14 @@
 # 03 JavaScript: Password Generator
 
+ https://jaredweaver.github.io/week-3-homework-js/.
+
 ## Summary
 
 For this assignment, I was given existing code that was styled to appear as a password generator. I then added javascript to meet the Acceptance Criteria below. 
 
+![Demo](assets/week-3-demo.gif)
 
-
-## User Story
+### User Story
 
 ```
 AS AN employee with access to sensitive data
@@ -14,7 +16,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN I need a new, secure password
